@@ -1,77 +1,72 @@
-# 👋 Hello, I'm Parth J. Rohit
+# Parth J. Rohit
 
-🎓 BSc (Hons) Computing Systems Student | Ulster University, London  
-🏅 Dean’s List Honours – Top 10% Academic Performance (First & Second Year)  
-📍 London, United Kingdom  
-📫 Email: parthrohit60@gmail.com | LinkedIn: linkedin.com/in/parthrohit  
-
----
-
-## 💼 About Me
-
-I am a BSc (Hons) Computing Systems student with a strong focus on **backend and full-stack software development**. I have hands-on experience building RESTful APIs, backend web applications, and structured software systems using **Python, Flask, Java, and PHP/Laravel**.
-
-My work includes API integration, authentication, rate limiting, data normalisation, and backend application design, alongside professional experience supporting IT operations and improving internal workflows. I am currently seeking **software development or backend-focused internship opportunities** in the UK.
+BSc (Hons) Computing Systems | Ulster University, London  
+London, United Kingdom  
+Email: parthrohit60@gmail.com  
+LinkedIn: linkedin.com/in/parthrohit  
 
 ---
 
-## 🧰 Technical Skills
+## About
 
-- **Programming Languages:** Python, Java, PHP  
-- **Backend & Web:** Flask, Laravel, REST APIs, MVC Architecture  
-- **Databases:** MySQL, SQL  
-- **Testing:** JUnit, Unit Testing  
-- **Tools & Platforms:** Git, GitHub, Swagger (OpenAPI), Postman, Linux, VS Code, Eclipse  
-- **Core Concepts:** Backend Development, API Integration, Authentication, Client–Server Architecture  
+Final-year Computing Systems student focused on building reliable, well-structured software systems. My work centres on backend engineering, state management, and deterministic system behaviour.
+
+I design and implement RESTful services, integrity-focused tooling, and modular applications using Python and Java, with emphasis on correctness, clarity, and predictable execution under real-world constraints.
 
 ---
 
-## 📘 Featured Projects
+## Technical Skills
 
-### 🔹 Job Search API Platform
-- Built a production-ready REST API for job search and aggregation using Flask  
-- Integrated multiple job data providers for US and UK job markets using a modular backend architecture  
-- Implemented API key authentication, rate limiting, response caching, and structured data normalisation  
-- Documented and tested endpoints using Swagger (Flasgger) and Postman  
+**Languages**  
+Python, Java, TypeScript, JavaScript  
 
----
+**Backend & Architecture**  
+RESTful APIs, MVC Architecture, Authentication & Access Control, Rate Limiting, Stateful Services  
 
-### 🔹 Laravel Backend Web Application
-- Developed a backend web application using Laravel following MVC architectural patterns  
-- Implemented routing, controllers, and database interactions to handle HTTP requests and responses  
-- Focused on backend structure, data flow, and framework-based application design  
+**Operating Systems & Infrastructure**  
+Linux (process management, SSH, systemctl, permissions), Shell scripting  
 
----
+**Cloud & Distributed Platforms**  
+Cloudflare Workers, Durable Objects, Microsoft Azure  
 
-### 🔹 15from3 – Java Console Game
-- Developed a multi-player Java console game using MVC architecture  
-- Implemented rule-based AI gameplay logic, persistent storage, and replay functionality  
-- Achieved approximately 95% unit test coverage using JUnit  
+**Data & Storage**  
+MySQL, Azure SQL, Azure Cosmos DB, MongoDB  
+
+**Testing & Tooling**  
+Unit Testing (JUnit), Git, Swagger (OpenAPI), Postman  
 
 ---
 
-## 🧑‍💻 Professional Experience
+## Selected Projects
 
-**IT & Administrative Assistant**  
-*Kukreja & Associates* | Jul 2021 – Dec 2023  
+### KALYX — Verifiable Execution Integrity Platform
+Designed an append-only ledger system using hash-chained records to make execution history tamper-evident.  
+Implemented deterministic verification logic and a controlled CLI-based ingestion workflow.  
+(Architecture overview available upon request.)
 
-- Provided IT and technical support to 50+ users, resolving day-to-day system issues  
-- Automated and digitised internal administrative workflows to reduce manual effort  
-- Supported documentation and internal systems used across departments  
+### LYTA — Stateful Service
+Built a distributed stateful service implementing session isolation and structured request lifecycle control.
+
+### Job Search API Platform
+Developed a modular RESTful API with authentication, rate limiting, and structured endpoint design.
+
+### 15from3 — Java Application
+Implemented MVC-based architecture with modular rule logic and ~95% unit test coverage.
 
 ---
 
-## 🏅 Awards & Honours
+## Experience
 
-- **Dean’s List** – Ulster University  
-  Awarded for academic excellence (Top 10% of cohort) in first and second year of study  
+Operations & IT Support Assistant  
+Kukreja & Associates | 2021–2023  
+
+- Automated internal workflows to improve operational efficiency  
+- Provided system and network support for 50+ users  
+- Conducted root-cause analysis to enhance system reliability  
 
 ---
 
-## 🤝 Let’s Connect
+## Education
 
-I am actively seeking **software development, backend, or full-stack internship opportunities**.  
-I welcome networking, collaboration, and professional discussion.
-
-📧 Email: parthrohit60@gmail.com  
-🔗 LinkedIn: linkedin.com/in/parthrohit  
+BSc (Hons) Computing Systems  
+Dean’s List (Distinction-Level Performance) – Years 1 & 2  
