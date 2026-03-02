@@ -9,30 +9,32 @@ LinkedIn: linkedin.com/in/parthrohit
 
 ## About
 
-Final-year Computing Systems student focused on building reliable, well-structured software systems. My work centres on backend engineering, state management, and deterministic system behaviour.
+Final-year Computing Systems student with a strong focus on software engineering and backend development.
 
-I design and implement RESTful services, integrity-focused tooling, and modular applications using Python and Java, with emphasis on correctness, clarity, and predictable execution under real-world constraints.
+I build modular, well-structured applications with emphasis on correctness, maintainability, and predictable behaviour. My work includes RESTful service design, state management systems, and Java/Python-based applications that prioritise clarity and clean architectural separation.
+
+I am actively seeking Software Engineering opportunities where I can contribute to building reliable, scalable systems.
 
 ---
 
 ## Technical Skills
 
-**Languages**  
+### Languages
 Python, Java, TypeScript, JavaScript  
 
-**Backend & Architecture**  
+### Backend & Application Development
 RESTful APIs, MVC Architecture, Authentication & Access Control, Rate Limiting, Stateful Services  
 
-**Operating Systems & Infrastructure**  
-Linux (process management, SSH, systemctl, permissions), Shell scripting  
+### Systems & Operating Environments
+Linux (process management, SSH, permissions, systemctl), Shell scripting  
 
-**Cloud & Distributed Platforms**  
+### Cloud & Platforms
 Cloudflare Workers, Durable Objects, Microsoft Azure  
 
-**Data & Storage**  
-MySQL, Azure SQL, Azure Cosmos DB, MongoDB  
+### Databases
+MySQL, SQL  
 
-**Testing & Tooling**  
+### Testing & Tooling
 Unit Testing (JUnit), Git, Swagger (OpenAPI), Postman  
 
 ---
@@ -40,33 +42,35 @@ Unit Testing (JUnit), Git, Swagger (OpenAPI), Postman
 ## Selected Projects
 
 ### KALYX — Verifiable Execution Integrity Platform
-Designed an append-only ledger system using hash-chained records to make execution history tamper-evident.  
-Implemented deterministic verification logic and a controlled CLI-based ingestion workflow.  
+Designed and implemented an append-only, hash-chained ledger to make execution history tamper-evident.  
+Built deterministic verification logic and a controlled CLI-based ingestion workflow.  
 (Architecture overview available upon request.)
 
-### LYTA — Stateful Service
-Built a distributed stateful service implementing session isolation and structured request lifecycle control.
+### LYTA — Cloud-Native Stateful Service
+Developed a stateful backend service using Durable Objects to enforce session isolation and structured request lifecycle control under concurrent workloads.
 
-### Job Search API Platform
-Developed a modular RESTful API with authentication, rate limiting, and structured endpoint design.
+### Find Job API Platform
+Implemented a modular RESTful API integrating external data sources with authentication, caching, and structured endpoint design.
 
-### 15from3 — Java Application
-Implemented MVC-based architecture with modular rule logic and ~95% unit test coverage.
+### 15from3 — Java MVC Application
+Built a console-based Java application using MVC architecture with modular rule logic and ~95% unit test coverage.
 
 ---
 
 ## Experience
 
 Operations & IT Support Assistant  
-Kukreja & Associates | 2021–2023  
+Kukreja & Associates, Vadodara, India | 2021–2023  
 
-- Automated internal workflows to improve operational efficiency  
-- Provided system and network support for 50+ users  
-- Conducted root-cause analysis to enhance system reliability  
+- Automated internal administrative workflows, reducing manual effort by 10+ hours per month  
+- Diagnosed and resolved hardware, software, and network issues for 50+ users with high first-response resolution  
+- Performed root-cause analysis on recurring system issues to improve operational reliability  
 
 ---
 
 ## Education
 
 BSc (Hons) Computing Systems  
-Dean’s List (Distinction-Level Performance) – Years 1 & 2  
+Ulster University, London  
+
+Dean’s List – Years 1 & 2
