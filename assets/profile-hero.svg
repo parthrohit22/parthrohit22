@@ -1,0 +1,56 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Parth Rohit profile banner</title>
+  <desc id="desc">A profile banner highlighting backend systems, distributed state, API design, and execution integrity.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F172A"/>
+      <stop offset="0.55" stop-color="#123C4A"/>
+      <stop offset="1" stop-color="#F4E7D3"/>
+    </linearGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#0F766E" stop-opacity="0.85"/>
+      <stop offset="1" stop-color="#1E293B" stop-opacity="0.95"/>
+    </linearGradient>
+    <filter id="blur" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="22"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="360" rx="28" fill="url(#bg)"/>
+  <g opacity="0.18">
+    <path d="M0 70H1200M0 130H1200M0 190H1200M0 250H1200M0 310H1200" stroke="#F8FAFC" stroke-width="1"/>
+    <path d="M140 0V360M300 0V360M460 0V360M620 0V360M780 0V360M940 0V360M1100 0V360" stroke="#F8FAFC" stroke-width="1"/>
+  </g>
+
+  <circle cx="1040" cy="88" r="88" fill="#2DD4BF" fill-opacity="0.28" filter="url(#blur)"/>
+  <circle cx="948" cy="288" r="72" fill="#F59E0B" fill-opacity="0.25" filter="url(#blur)"/>
+  <circle cx="170" cy="52" r="64" fill="#38BDF8" fill-opacity="0.16" filter="url(#blur)"/>
+
+  <rect x="70" y="54" width="610" height="252" rx="28" fill="#0B1220" fill-opacity="0.68" stroke="#E2E8F0" stroke-opacity="0.14"/>
+  <text x="98" y="112" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="18" letter-spacing="2">SOFTWARE ENGINEERING PROFILE</text>
+  <text x="98" y="170" fill="#F8FAFC" font-family="Georgia, Times New Roman, serif" font-size="48" font-weight="700">Parth Rohit</text>
+  <text x="98" y="212" fill="#D6E3EA" font-family="Segoe UI, Arial, sans-serif" font-size="21">Building backend systems where state, trust,</text>
+  <text x="98" y="240" fill="#D6E3EA" font-family="Segoe UI, Arial, sans-serif" font-size="21">and failure handling matter.</text>
+  <text x="98" y="284" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="16">Final-year BSc (Hons) Computing Systems  |  Dean's List  |  London</text>
+
+  <g transform="translate(760 58)">
+    <rect width="352" height="244" rx="28" fill="url(#card)" stroke="#CCFBF1" stroke-opacity="0.24"/>
+    <text x="28" y="46" fill="#CCFBF1" font-family="Segoe UI, Arial, sans-serif" font-size="18" letter-spacing="1.5">ENGINEERING FOCUS</text>
+
+    <rect x="28" y="74" width="138" height="42" rx="21" fill="#F8FAFC" fill-opacity="0.12"/>
+    <text x="50" y="100" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="16">Backend Systems</text>
+
+    <rect x="180" y="74" width="144" height="42" rx="21" fill="#F8FAFC" fill-opacity="0.12"/>
+    <text x="202" y="100" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="16">Distributed State</text>
+
+    <rect x="28" y="128" width="112" height="42" rx="21" fill="#F8FAFC" fill-opacity="0.12"/>
+    <text x="57" y="154" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="16">API Design</text>
+
+    <rect x="154" y="128" width="170" height="42" rx="21" fill="#F8FAFC" fill-opacity="0.12"/>
+    <text x="177" y="154" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="16">Execution Integrity</text>
+
+    <path d="M28 196H324" stroke="#CCFBF1" stroke-opacity="0.25"/>
+    <text x="28" y="225" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="16">Focused on reliable services, clean contracts,</text>
+    <text x="28" y="248" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="16">and systems that stay correct under pressure.</text>
+  </g>
+</svg>
