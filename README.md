@@ -45,11 +45,12 @@ Implemented systems handling external data, concurrency, and multi-user usage.
 
 ## Technical Focus
 
-- **Languages:** TypeScript, Python, JavaScript, Java, SQL
-- **Backend & APIs:** REST APIs, Flask, FastAPI, JWT auth, RBAC, rate limiting, OpenAPI
-- **Cloud / Platforms:** Cloudflare Workers, Durable Objects, Workers AI, Azure, Linux
-- **Databases:** MongoDB, MySQL, SQLite
-- **Tools:** Git, Postman, npm, Vitest, JUnit
+- **Languages:** TypeScript, Python, Java, SQL  
+- **Frameworks:** Angular, FastAPI, Flask  
+- **Backend & APIs:** REST APIs, JWT authentication, RBAC, rate limiting, OpenAPI  
+- **Cloud & Platforms:** Cloudflare Workers, Durable Objects, Workers AI, Azure  
+- **Databases:** MongoDB, MySQL, SQLite, Cosmos DB  
+- **Tools:** Git, Postman, Vitest, JUnit  
 
 ## Experience
 
