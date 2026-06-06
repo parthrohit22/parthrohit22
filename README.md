@@ -1,75 +1,94 @@
 <p align="center">
-  <img src="./assets/profile-hero.svg" alt="Parth Rohit profile banner" width="1000"/>
+  <img src="./assets/profile-hero.svg" alt="Parth Rohit profile hero banner" width="1000"/>
 </p>
 
 <h1 align="center">Parth Rohit</h1>
 
 <p align="center">
-  <img alt="Location badge" src="https://img.shields.io/badge/London-United%20Kingdom-0F766E?style=flat-square"/>
-  <img alt="Degree badge" src="https://img.shields.io/badge/BSc%20(Hons)-Computing%20Systems-1D4ED8?style=flat-square"/>
-  <img alt="Focus badge" src="https://img.shields.io/badge/Focus-Backend%20%26%20Full--Stack%20Systems-111827?style=flat-square"/>
-  <img alt="Open to opportunities badge" src="https://img.shields.io/badge/Open%20to-Software%20Engineering%20Opportunities-success?style=flat-square"/>
+  <b>Backend and cloud-focused software engineer building reliable APIs, distributed state, security tooling, and data workflows.</b>
 </p>
 
 <p align="center">
-  Backend &amp; full-stack systems · APIs · real-time processing · data workflows
+  <a href="https://www.linkedin.com/in/parthrohit">LinkedIn</a> |
+  <a href="mailto:parthrohit60@gmail.com">Email</a> |
+  <a href="https://github.com/parthrohit22?tab=repositories">Projects</a> |
+  London, United Kingdom
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/parthrohit">LinkedIn</a> ·
-  <a href="mailto:parthrohit60@gmail.com">Email</a> ·
-  <a href="https://github.com/parthrohit22?tab=repositories">Repositories</a>
+  <img alt="BSc Computing Systems badge" src="https://img.shields.io/badge/BSc%20Computing%20Systems-Ulster%20University-0f172a?style=flat-square"/>
+  <img alt="Dean's List badge" src="https://img.shields.io/badge/Dean%27s%20List-Year%201%20%26%202-2563eb?style=flat-square"/>
+  <a href="https://github.com/openshield-org/openshield">
+    <img alt="OpenShield contributor badge" src="https://img.shields.io/badge/Open%20Source-OpenShield%20Contributor-0f766e?style=flat-square"/>
+  </a>
+  <img alt="Focus badge" src="https://img.shields.io/badge/Focus-Backend%20%7C%20Cloud%20%7C%20Security-334155?style=flat-square"/>
 </p>
 
 <p align="center">
-  <a href="#overview"><b>Overview</b></a> ·
-  <a href="#featured-work"><b>Featured Work</b></a> ·
-  <a href="#technical-focus"><b>Technical Focus</b></a> ·
-  <a href="#experience"><b>Experience</b></a> ·
+  <a href="#engineering-snapshot"><b>Snapshot</b></a> |
+  <a href="#selected-systems"><b>Selected Systems</b></a> |
+  <a href="#technical-surface"><b>Technical Surface</b></a> |
+  <a href="#experience"><b>Experience</b></a> |
   <a href="#education"><b>Education</b></a>
 </p>
 
-## Overview
+## Engineering Snapshot
 
-Built backend and full-stack systems using TypeScript and Python.
-Designed APIs, real-time processing, and data workflows.
-Implemented systems handling external data, concurrency, and multi-user usage.
+I like building systems where correctness, ownership boundaries, and operational clarity matter. My projects sit around backend APIs, hash-linked verification, cloud security scanning, stateful edge workloads, Azure-hosted data services, and role-aware product operations.
 
-## Featured Work
+The through-line is practical systems engineering: deterministic verification, concurrent-safe ingestion, server-enforced authorization, audit-friendly records, observability, and tests that protect behavior instead of just chasing coverage.
 
-| Project | What was built | Stack |
+**Currently sharpening:** distributed state, cloud-native backend architecture, security automation, and developer-facing platform tooling.
+
+## Selected Systems
+
+| Project | What it demonstrates | Stack |
 | --- | --- | --- |
-| [LYTA](https://github.com/parthrohit22/lyta) | Full-stack TypeScript workspace with API-driven streaming chat, persistent session state, file handling, and concurrency-safe Durable Object ownership. | TypeScript, Cloudflare Workers, Durable Objects, Workers AI |
-| [Payment Routing System](https://github.com/parthrohit22/Payment-Routing-System) | SaaS-style payment system with Flask APIs for JWT auth, RBAC, merchant-scoped data, provider attempt tracking, fallback history, and analytics. | Python, Flask, Angular, MongoDB, JWT |
-| KALYX | Backend event processing system that ingests, normalizes, and verifies event data using a hash-linked ledger, with rule-based detection and alerting. | Python, FastAPI, Pydantic, CLI |
+| KALYX | Execution-integrity platform with hash-chained records, deterministic verification, concurrent-safe ingestion, FastAPI services, audit workflows, and automated tests. | Python, FastAPI, pytest |
+| [OpenShield](https://github.com/openshield-org/openshield) | Open-source Azure CSPM work across security rule engineering, OWASP-oriented checks, compliance mappings, validation flows, and end-to-end platform testing. | Python, Azure SDK, Flask, PostgreSQL, GitHub Actions |
+| [LYTA](https://github.com/parthrohit22/lyta) | Stateful edge workspace using Cloudflare Workers and Durable Objects, with ownership-aware workspace state, retrieval architecture, SSE streaming, and tenant boundaries. | TypeScript, Cloudflare Workers, Durable Objects, Workers AI |
+| [FieldSight](https://github.com/parthrohit22/fieldsight-api) | Azure backend that separates image binaries from searchable metadata using Blob Storage, partitioned Cosmos DB records, App Service hosting, telemetry, and CI/CD. | Node.js, Express.js, Azure App Service, Cosmos DB, Blob Storage |
+| [Payment Operations & Routing Analytics Platform](https://github.com/parthrohit22/Payment-Routing-System) | Backend-controlled payment operations with JWT auth, RBAC, merchant-scoped access, provider attempt history, fallback visibility, and operational analytics. | Angular, Flask, MongoDB, JWT, RBAC |
 
-## Technical Focus
+## Technical Surface
 
-- **Languages:** TypeScript, Python, Java, SQL  
-- **Frameworks:** Angular, FastAPI, Flask  
-- **Backend & APIs:** REST APIs, JWT authentication, RBAC, rate limiting, OpenAPI  
-- **Cloud & Platforms:** Cloudflare Workers, Durable Objects, Workers AI, Azure  
-- **Databases:** MongoDB, MySQL, SQLite, Cosmos DB  
-- **Tools:** Git, Postman, Vitest, JUnit  
+| Area | Tools and practices |
+| --- | --- |
+| Languages | Python, TypeScript, JavaScript, Java, SQL |
+| Backend | FastAPI, Flask, Express.js, REST APIs, JWT authentication, RBAC, audit workflows, SSE streaming |
+| Cloud and Infrastructure | Azure App Service, Azure Cosmos DB, Azure Blob Storage, Application Insights, Cloudflare Workers, Durable Objects, GitHub Actions, CI/CD |
+| Databases | MongoDB, Azure Cosmos DB, PostgreSQL, MySQL, SQLite |
+| Testing and Tooling | pytest, Vitest, JUnit, Postman, OpenAPI, Git, GitHub Actions |
+
+## Engineering Themes
+
+- Verifiable state, deterministic workflows, and audit-ready records
+- Cloud-native APIs with clear service boundaries and deployment paths
+- Security engineering, compliance automation, and platform validation
+- Stateful edge systems, real-time streaming, and multi-tenant ownership models
+- Observability, reliability, and practical backend operational quality
 
 ## Experience
 
 **Operations & IT Support Assistant**  
 Kukreja & Associates, Vadodara, India | July 2021 - December 2023
 
-- Automated internal workflows, reducing manual effort by 10+ hours/month
-- Resolved hardware, software, and network issues for 50+ users
-- Improved recurring support processes and day-to-day system reliability
+- Automated internal workflows, reducing recurring manual effort by 10+ hours per month.
+- Supported 50+ users across hardware, software, and network issues.
+- Documented repeatable support processes and improved recurring operational support flows.
 
 ## Education
 
 **Ulster University, London**  
-BSc (Hons) Computing Systems | January 2024 - September 2026
+BSc (Hons) Computing Systems | Expected graduation: September 2026
 
-- Dean's List in Year 1 and Year 2
-- Relevant modules: Server-Side Development, Cloud-Native Development, Full-Stack Strategies, Systems Security
+- Dean's List in Year 1 and Year 2.
+- Relevant modules: Server-Side Development, Cloud-Native Development, Full-Stack Strategies, Systems Security.
 
 ## Contact
 
+I am always happy to talk about backend engineering, cloud systems, security tooling, and software engineering opportunities.
+
 Email: [parthrohit60@gmail.com](mailto:parthrohit60@gmail.com)
+
 LinkedIn: [linkedin.com/in/parthrohit](https://www.linkedin.com/in/parthrohit)

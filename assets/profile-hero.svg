@@ -1,6 +1,6 @@
 <svg width="1000" height="300" viewBox="0 0 1000 300" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Parth Rohit profile banner</title>
-  <desc id="desc">Clean technical profile banner for Parth Rohit, Backend and Full-Stack Software Engineer, highlighting APIs, real-time systems, data workflows, TypeScript, Python, and London.</desc>
+  <desc id="desc">Technical profile banner for Parth Rohit, highlighting backend systems, cloud platforms, security tooling, TypeScript, Python, and London.</desc>
 
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1000" y2="300" gradientUnits="userSpaceOnUse">
@@ -29,9 +29,9 @@
 
   <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif">
     <text x="60" y="101" fill="#F8FAFC" font-size="48" font-weight="700">Parth Rohit</text>
-    <text x="62" y="140" fill="#7DD3FC" font-size="25" font-weight="600">Backend &amp; Full-Stack Software Engineer</text>
-    <text x="62" y="184" fill="#DCEBEE" font-size="21">Building APIs, real-time systems, and data workflows using TypeScript and Python.</text>
-    <text x="62" y="223" fill="#A7B8C4" font-size="17">Final-year BSc (Hons) Computing Systems | Dean’s List | London</text>
+    <text x="62" y="140" fill="#7DD3FC" font-size="25" font-weight="600">Backend &amp; Cloud Systems Engineer</text>
+    <text x="62" y="184" fill="#DCEBEE" font-size="21">Reliable APIs, distributed state, security tooling, and data workflows.</text>
+    <text x="62" y="223" fill="#A7B8C4" font-size="17">BSc Computing Systems | Dean's List | London</text>
   </g>
 
   <g transform="translate(600 72)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif">
@@ -51,11 +51,11 @@
     </g>
 
     <g fill="#DFFAFE" font-size="10.5" font-weight="700" text-anchor="middle">
-      <text x="31" y="25">CLIENT</text>
-      <text x="105" y="25">API</text>
-      <text x="179" y="25">SERVICES</text>
-      <text x="253" y="25">DATA</text>
-      <text x="327" y="25">STORAGE</text>
+      <text x="31" y="25">API</text>
+      <text x="105" y="25">STATE</text>
+      <text x="179" y="25">VERIFY</text>
+      <text x="253" y="25">SECURE</text>
+      <text x="327" y="25">CLOUD</text>
     </g>
   </g>
 </svg>
