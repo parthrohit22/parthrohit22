@@ -44,7 +44,7 @@ The through-line is practical systems engineering: deterministic verification, c
 
 | Project | What it demonstrates | Stack |
 | --- | --- | --- |
-| KALYX | Execution-integrity platform with hash-chained records, deterministic verification, concurrent-safe ingestion, FastAPI services, audit workflows, and automated tests. | Python, FastAPI, pytest |
+| [KALYX](https://github.com/parthrohit22/kalyx) | Execution-integrity platform with hash-chained records, deterministic verification, concurrent-safe ingestion, FastAPI services, audit workflows, and automated tests. | Python, FastAPI, pytest |
 | [OpenShield](https://github.com/openshield-org/openshield) | Open-source Azure CSPM work across security rule engineering, OWASP-oriented checks, compliance mappings, validation flows, and end-to-end platform testing. | Python, Azure SDK, Flask, PostgreSQL, GitHub Actions |
 | [LYTA](https://github.com/parthrohit22/lyta) | Stateful edge workspace using Cloudflare Workers and Durable Objects, with ownership-aware workspace state, retrieval architecture, SSE streaming, and tenant boundaries. | TypeScript, Cloudflare Workers, Durable Objects, Workers AI |
 | [FieldSight](https://github.com/parthrohit22/fieldsight-api) | Azure backend that separates image binaries from searchable metadata using Blob Storage, partitioned Cosmos DB records, App Service hosting, telemetry, and CI/CD. | Node.js, Express.js, Azure App Service, Cosmos DB, Blob Storage |
