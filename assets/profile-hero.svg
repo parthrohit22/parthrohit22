@@ -1,117 +1,113 @@
 <svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Parth Rohit - Software Engineer</title>
-  <desc id="desc">A professional engineering profile banner for Parth Rohit highlighting software engineering, backend systems, cloud platforms, and distributed systems.</desc>
+  <desc id="desc">A light editorial engineering banner for Parth Rohit, positioning him as a software engineer focused on backend, cloud, and distributed systems.</desc>
 
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#0E1418"/>
-      <stop offset="0.58" stop-color="#121A21"/>
-      <stop offset="1" stop-color="#1A1F1A"/>
+    <linearGradient id="paper" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FBFCFF"/>
+      <stop offset="0.55" stop-color="#F6F8FC"/>
+      <stop offset="1" stop-color="#EEF4FF"/>
     </linearGradient>
 
-    <linearGradient id="accentLine" x1="70" y1="0" x2="560" y2="0" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#2DD4BF"/>
-      <stop offset="0.52" stop-color="#38BDF8"/>
-      <stop offset="1" stop-color="#FBBF24"/>
+    <radialGradient id="washBlue" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(980 62) rotate(142) scale(520 260)">
+      <stop stop-color="#BFDBFE" stop-opacity="0.82"/>
+      <stop offset="0.48" stop-color="#DBEAFE" stop-opacity="0.42"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </radialGradient>
+
+    <radialGradient id="washCyan" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(210 310) rotate(-24) scale(410 190)">
+      <stop stop-color="#CCFBF1" stop-opacity="0.78"/>
+      <stop offset="0.58" stop-color="#E0F2FE" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </radialGradient>
+
+    <linearGradient id="rule" x1="72" y1="0" x2="540" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0891B2"/>
+      <stop offset="0.5" stop-color="#2563EB"/>
+      <stop offset="1" stop-color="#4F46E5"/>
     </linearGradient>
 
-    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
-      <path d="M36 0H0V36" stroke="#E5E7EB" stroke-opacity="0.055" stroke-width="1"/>
+    <linearGradient id="stackTop" x1="706" y1="86" x2="1068" y2="86" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F172A"/>
+      <stop offset="1" stop-color="#1E3A8A"/>
+    </linearGradient>
+
+    <pattern id="dotGrid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#64748B" fill-opacity="0.12"/>
     </pattern>
 
-    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
-      <feDropShadow dx="0" dy="10" stdDeviation="12" flood-color="#000000" flood-opacity="0.28"/>
+    <filter id="softShadow" x="-18%" y="-24%" width="136%" height="152%">
+      <feDropShadow dx="0" dy="20" stdDeviation="22" flood-color="#1E293B" flood-opacity="0.14"/>
+    </filter>
+
+    <filter id="cardShadow" x="-16%" y="-16%" width="132%" height="132%">
+      <feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="#334155" flood-opacity="0.10"/>
     </filter>
   </defs>
 
-  <rect width="1200" height="360" rx="26" fill="url(#bg)"/>
-  <rect width="1200" height="360" rx="26" fill="url(#grid)"/>
+  <rect width="1200" height="360" rx="30" fill="url(#paper)"/>
+  <rect width="1200" height="360" rx="30" fill="url(#washBlue)"/>
+  <rect width="1200" height="360" rx="30" fill="url(#washCyan)"/>
+  <rect x="632" y="0" width="568" height="360" fill="url(#dotGrid)" opacity="0.7"/>
 
-  <path d="M0 300H1200" stroke="#FFFFFF" stroke-opacity="0.055"/>
-  <path d="M600 0V360" stroke="#FFFFFF" stroke-opacity="0.045"/>
-  <path d="M70 78H560" stroke="url(#accentLine)" stroke-width="3" stroke-linecap="round"/>
+  <path d="M72 78H534" stroke="url(#rule)" stroke-width="4" stroke-linecap="round"/>
+  <path d="M72 296H548" stroke="#CBD5E1" stroke-width="1"/>
+  <path d="M72 316H436" stroke="#E2E8F0" stroke-width="1"/>
 
   <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif">
-    <text x="70" y="135" fill="#F8FAFC" font-size="58" font-weight="750">Parth Rohit</text>
-    <text x="72" y="181" fill="#2DD4BF" font-size="30" font-weight="700">Software Engineer</text>
-    <text x="72" y="223" fill="#E2E8F0" font-size="26" font-weight="650">Backend • Cloud • Distributed Systems</text>
-    <text x="72" y="264" fill="#B7C3CC" font-size="18">APIs, cloud runtimes, distributed state, and platform tooling.</text>
+    <text x="72" y="139" fill="#0F172A" font-size="64" font-weight="780" letter-spacing="0">Parth Rohit</text>
+    <text x="74" y="188" fill="#0E7490" font-size="32" font-weight="720" letter-spacing="0">Software Engineer</text>
+    <text x="74" y="232" fill="#1E293B" font-size="27" font-weight="660" letter-spacing="0">Backend • Cloud • Distributed Systems</text>
+    <text x="76" y="270" fill="#475569" font-size="18" font-weight="520" letter-spacing="0">Cloud platforms, distributed systems, and open-source engineering.</text>
+  </g>
 
-    <g transform="translate(70 292)">
-      <rect x="0" y="0" width="82" height="30" rx="15" fill="#17232A" stroke="#2DD4BF" stroke-opacity="0.42"/>
-      <rect x="94" y="0" width="138" height="30" rx="15" fill="#17232A" stroke="#38BDF8" stroke-opacity="0.42"/>
-      <rect x="244" y="0" width="144" height="30" rx="15" fill="#17232A" stroke="#FBBF24" stroke-opacity="0.42"/>
-      <rect x="400" y="0" width="124" height="30" rx="15" fill="#17232A" stroke="#A3E635" stroke-opacity="0.34"/>
-      <text x="41" y="20" fill="#D8FFF8" font-size="13" font-weight="700" text-anchor="middle">APIs</text>
-      <text x="163" y="20" fill="#DDF5FF" font-size="13" font-weight="700" text-anchor="middle">Cloud runtimes</text>
-      <text x="316" y="20" fill="#FFF1C2" font-size="13" font-weight="700" text-anchor="middle">Distributed state</text>
-      <text x="462" y="20" fill="#ECFCCB" font-size="13" font-weight="700" text-anchor="middle">Open source</text>
+  <g transform="translate(648 48)" filter="url(#softShadow)">
+    <rect x="0" y="0" width="486" height="264" rx="28" fill="#FFFFFF" stroke="#D8E1EE"/>
+    <rect x="24" y="24" width="438" height="216" rx="22" fill="#F8FAFC" stroke="#E2E8F0"/>
+
+    <g transform="translate(58 48)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif">
+      <rect x="0" y="0" width="346" height="54" rx="18" fill="url(#stackTop)"/>
+      <text x="26" y="34" fill="#F8FAFC" font-size="18" font-weight="760">Systems Canvas</text>
+      <rect x="232" y="18" width="86" height="18" rx="9" fill="#FFFFFF" fill-opacity="0.14"/>
+
+      <g transform="translate(0 78)" filter="url(#cardShadow)">
+        <rect x="0" y="0" width="154" height="56" rx="17" fill="#FFFFFF" stroke="#CBD5E1"/>
+        <rect x="14" y="15" width="6" height="26" rx="3" fill="#0891B2"/>
+        <text x="34" y="29" fill="#0F172A" font-size="16" font-weight="760">API Layer</text>
+        <text x="34" y="46" fill="#64748B" font-size="13" font-weight="560">contracts</text>
+      </g>
+
+      <g transform="translate(192 78)" filter="url(#cardShadow)">
+        <rect x="0" y="0" width="154" height="56" rx="17" fill="#FFFFFF" stroke="#CBD5E1"/>
+        <rect x="14" y="15" width="6" height="26" rx="3" fill="#2563EB"/>
+        <text x="34" y="29" fill="#0F172A" font-size="16" font-weight="760">Services</text>
+        <text x="34" y="46" fill="#64748B" font-size="13" font-weight="560">workflows</text>
+      </g>
+
+      <g transform="translate(0 154)" filter="url(#cardShadow)">
+        <rect x="0" y="0" width="154" height="56" rx="17" fill="#FFFFFF" stroke="#CBD5E1"/>
+        <rect x="14" y="15" width="6" height="26" rx="3" fill="#4F46E5"/>
+        <text x="34" y="29" fill="#0F172A" font-size="16" font-weight="760">State</text>
+        <text x="34" y="46" fill="#64748B" font-size="13" font-weight="560">records</text>
+      </g>
+
+      <g transform="translate(192 154)" filter="url(#cardShadow)">
+        <rect x="0" y="0" width="154" height="56" rx="17" fill="#FFFFFF" stroke="#CBD5E1"/>
+        <rect x="14" y="15" width="6" height="26" rx="3" fill="#0284C7"/>
+        <text x="34" y="29" fill="#0F172A" font-size="16" font-weight="760">Cloud</text>
+        <text x="34" y="46" fill="#64748B" font-size="13" font-weight="560">platforms</text>
+      </g>
+
+      <path d="M154 106H192" stroke="#94A3B8" stroke-width="2" stroke-linecap="round"/>
+      <path d="M77 134V154" stroke="#94A3B8" stroke-width="2" stroke-linecap="round"/>
+      <path d="M269 134V154" stroke="#94A3B8" stroke-width="2" stroke-linecap="round"/>
+      <path d="M154 182H192" stroke="#94A3B8" stroke-width="2" stroke-linecap="round"/>
     </g>
   </g>
 
-  <g transform="translate(655 58)" filter="url(#shadow)">
-    <rect x="0" y="0" width="470" height="248" rx="22" fill="#10171C" stroke="#E5E7EB" stroke-opacity="0.11"/>
-    <rect x="22" y="20" width="426" height="208" rx="16" fill="#0D1317" stroke="#FFFFFF" stroke-opacity="0.08"/>
-
-    <g stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-      <path d="M86 76H166" stroke="#2DD4BF" stroke-opacity="0.72"/>
-      <path d="M280 76H350" stroke="#38BDF8" stroke-opacity="0.68"/>
-      <path d="M223 98V142" stroke="#FBBF24" stroke-opacity="0.7"/>
-      <path d="M166 174H92" stroke="#A3E635" stroke-opacity="0.52"/>
-      <path d="M280 174H362" stroke="#A78BFA" stroke-opacity="0.5"/>
-      <path d="M223 98L152 153" stroke="#94A3B8" stroke-opacity="0.35"/>
-      <path d="M223 98L314 153" stroke="#94A3B8" stroke-opacity="0.35"/>
-    </g>
-
-    <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif">
-      <g>
-        <rect x="42" y="52" width="92" height="48" rx="12" fill="#121F24" stroke="#2DD4BF" stroke-opacity="0.65"/>
-        <circle cx="61" cy="76" r="5" fill="#2DD4BF"/>
-        <text x="80" y="73" fill="#F8FAFC" font-size="13" font-weight="700">API</text>
-        <text x="80" y="90" fill="#91A4B0" font-size="11">contracts</text>
-      </g>
-
-      <g>
-        <rect x="166" y="52" width="114" height="48" rx="12" fill="#121B25" stroke="#38BDF8" stroke-opacity="0.65"/>
-        <circle cx="185" cy="76" r="5" fill="#38BDF8"/>
-        <text x="204" y="73" fill="#F8FAFC" font-size="13" font-weight="700">Services</text>
-        <text x="204" y="90" fill="#91A4B0" font-size="11">backend flow</text>
-      </g>
-
-      <g>
-        <rect x="350" y="52" width="76" height="48" rx="12" fill="#161B18" stroke="#A3E635" stroke-opacity="0.48"/>
-        <circle cx="369" cy="76" r="5" fill="#A3E635"/>
-        <text x="388" y="73" fill="#F8FAFC" font-size="13" font-weight="700">CI</text>
-        <text x="388" y="90" fill="#91A4B0" font-size="11">checks</text>
-      </g>
-
-      <g>
-        <rect x="166" y="142" width="114" height="64" rx="14" fill="#191914" stroke="#FBBF24" stroke-opacity="0.62"/>
-        <circle cx="185" cy="170" r="5" fill="#FBBF24"/>
-        <text x="204" y="164" fill="#F8FAFC" font-size="13" font-weight="700">State</text>
-        <text x="204" y="181" fill="#A8A091" font-size="11">ledgers, records</text>
-        <text x="204" y="196" fill="#A8A091" font-size="11">workspace data</text>
-      </g>
-
-      <g>
-        <rect x="42" y="150" width="92" height="48" rx="12" fill="#121E1A" stroke="#2DD4BF" stroke-opacity="0.42"/>
-        <circle cx="61" cy="174" r="5" fill="#2DD4BF"/>
-        <text x="80" y="171" fill="#F8FAFC" font-size="13" font-weight="700">Cloud</text>
-        <text x="80" y="188" fill="#91A4B0" font-size="11">platforms</text>
-      </g>
-
-      <g>
-        <rect x="332" y="150" width="94" height="48" rx="12" fill="#171521" stroke="#A78BFA" stroke-opacity="0.48"/>
-        <circle cx="351" cy="174" r="5" fill="#A78BFA"/>
-        <text x="370" y="171" fill="#F8FAFC" font-size="13" font-weight="700">Observe</text>
-        <text x="370" y="188" fill="#91A4B0" font-size="11">telemetry</text>
-      </g>
-    </g>
-  </g>
-
-  <g opacity="0.72">
-    <circle cx="1118" cy="46" r="4" fill="#2DD4BF"/>
-    <circle cx="1138" cy="46" r="4" fill="#38BDF8"/>
-    <circle cx="1158" cy="46" r="4" fill="#FBBF24"/>
+  <g opacity="0.95">
+    <path d="M1012 40H1140" stroke="#2563EB" stroke-width="3" stroke-linecap="round"/>
+    <path d="M1058 56H1140" stroke="#0891B2" stroke-width="3" stroke-linecap="round"/>
+    <path d="M1096 72H1140" stroke="#4F46E5" stroke-width="3" stroke-linecap="round"/>
   </g>
 </svg>
