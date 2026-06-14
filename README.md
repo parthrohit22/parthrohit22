@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./assets/profile-hero.svg" alt="Parth Rohit - Software Engineer - Backend, Cloud, Distributed Systems" width="1000"/>
-</p>
-
 <h1 align="center">Parth Rohit</h1>
 
 <p align="center">
