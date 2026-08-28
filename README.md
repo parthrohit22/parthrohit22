@@ -1,139 +1,64 @@
-<h1 align="center">Hi, I'm Parth Rohit</h1>
+# Parth Rohit
 
-<p align="center">
-  I build AI-native systems, backend products and software that can explain its own decisions.
-</p>
+Software engineer building AI-native systems and backend products where outputs, data and system behaviour remain inspectable.
 
-<p align="center">
-  <a href="https://www.parthrohit.com"><img src="https://img.shields.io/badge/Portfolio-parthrohit.com-101114?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/parthrohit"><img src="https://img.shields.io/badge/LinkedIn-Parth%20Rohit-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:parthrohit60@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-5B6B94?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Parth" /></a>
-</p>
+[Portfolio](https://www.parthrohit.com) · [LinkedIn](https://www.linkedin.com/in/parthrohit)
 
-<p align="center">
-  <code>AI-native systems</code> · <code>backend engineering</code> · <code>trustworthy software</code>
-</p>
+## Current focus
 
----
+I build software around a simple engineering principle: an answer or automated decision is only useful when someone can understand where it came from, what it depends on and how it behaves when something fails.
 
-## Now
-
-- Building **[PARTHA](https://github.com/Second-Origin/PARTHA)**, a repository-intelligence platform that gives engineers and AI tools structured, source-backed context.
-- Maintaining tests and documentation on **[OpenShield](https://github.com/openshield-org/openshield)** while the project progresses through OWASP governance.
-- Completing a BSc (Hons) in Computing Systems at Ulster University, London, with a predicted First Class. Available full-time from **September 2026**.
+My work sits across AI systems, backend services, data workflows and developer tooling.
 
 ## Selected work
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### [PARTHA](https://github.com/Second-Origin/PARTHA)
 
-### 🧠 [LYTA](https://github.com/parthrohit22/lyta)
+Repository intelligence for engineers and AI tools. PARTHA turns codebase knowledge into structured, source-backed evidence so reports, documentation and AI features do not have to rediscover context from raw files.
 
-**A live edge-native AI workspace**
+**Focus:** FastAPI services, PostgreSQL, repository analysis, provenance, developer tooling  
+**Stack:** Python, FastAPI, PostgreSQL, Redis, Docker, React, TypeScript
 
-Documents, citations and conversation state stay reusable across chats instead of resetting every time.
+### [LYTA](https://github.com/parthrohit22/lyta)
 
-`TypeScript` `Workers AI` `Durable Objects` `SSE`
+A live edge-native workspace that keeps documents, citations and conversation state reusable across chats.
 
-[Live workspace →](https://lyta.parthrohit-dev.workers.dev)
+**Focus:** Retrieval, cited responses, state ownership and streaming failure handling  
+**Stack:** TypeScript, Cloudflare Workers, Workers AI, Durable Objects, embeddings, SSE  
+**Live:** [lyta.parthrohit-dev.workers.dev](https://lyta.parthrohit-dev.workers.dev)
 
-</td>
-<td width="50%" valign="top">
+### [KALYX](https://github.com/parthrohit22/kalyx)
 
-### ◉ [PARTHA](https://github.com/Second-Origin/PARTHA)
+A dissertation project for checking whether execution evidence was altered, deleted or reordered after a compromise.
 
-**Repository intelligence with provenance**
+**Focus:** Deterministic verification, hash-linked ledgers and explicit trust boundaries  
+**Stack:** Python, FastAPI, Angular, Raspberry Pi, eBPF, pytest
 
-Turns codebase knowledge into structured evidence so reports and AI features can trace each supported fact back to its source.
+### [ReturnProof](https://github.com/parthrohit22/ReturnProof)
 
-`Python` `FastAPI` `PostgreSQL` `React`
+A deterministic reconciliation engine for conflicting warehouse and supplier evidence in return workflows.
 
-[Repository →](https://github.com/Second-Origin/PARTHA)
+**Focus:** Field-level authority, auditable decisions and quantity conservation  
+**Stack:** Python, Django, Django Ninja, React, TypeScript, Playwright
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+## Open source
 
-### ⛓️ [KALYX](https://github.com/parthrohit22/kalyx)
+I contribute to [OpenShield](https://github.com/openshield-org/openshield), an open-source Azure cloud-security posture management project.
 
-**Execution-evidence integrity**
+I hold merge access to `dev` and am a CODEOWNER for tests and documentation. My contributions include scanner correctness, compliance mappings, database reliability, CI validation, tests, documentation and the OpenShield Learn portal.
 
-Determines whether logs were altered, deleted or reordered after compromise, with deterministic verification and explicit trust boundaries.
+OpenShield holds an [OpenSSF Best Practices passing badge](https://www.bestpractices.dev/projects/13618) and is progressing through OWASP governance. I will become a maintainer under OWASP when the migration completes.
 
-`Python` `FastAPI` `Angular` `Raspberry Pi`
+## Technical focus
 
-[Repository →](https://github.com/parthrohit22/kalyx)
-
-</td>
-<td width="50%" valign="top">
-
-### ⇄ [ReturnProof](https://github.com/parthrohit22/ReturnProof)
-
-**Evidence reconciliation for returns**
-
-Resolves conflicting warehouse and supplier evidence field by field, with documented rules and auditable outcomes.
-
-`Django` `React` `TypeScript` `Playwright`
-
-[Repository →](https://github.com/parthrohit22/ReturnProof)
-
-</td>
-</tr>
-</table>
-
-<details>
-<summary><strong>Open-source contribution · OpenShield</strong></summary>
-<br />
-
-I hold merge access to `dev` and am a CODEOWNER for tests and documentation. My work spans scanner correctness, compliance mappings, database reliability, CI validation, tests, documentation and the OpenShield Learn portal.
-
-The project has an [OpenSSF Best Practices passing badge](https://www.bestpractices.dev/projects/13618) and is progressing through OWASP governance. I will become a maintainer under OWASP when the migration completes.
-
-</details>
-
-## Toolbox
-
-<p>
-  <img src="https://skillicons.dev/icons?i=py,ts,react,fastapi,django,postgres,redis,docker,cloudflare,azure,githubactions,playwright&perline=12" alt="Python, TypeScript, React, FastAPI, Django, PostgreSQL, Redis, Docker, Cloudflare, Azure, GitHub Actions and Playwright" />
-</p>
-
-<details>
-<summary><strong>More of the stack</strong></summary>
-<br />
-
-| Area | Tools |
+| Area | Technologies |
 | --- | --- |
-| **Backend & data** | FastAPI, Django, Django Ninja, Flask, REST APIs, Pydantic, SQLAlchemy, Alembic, MongoDB, SQLite |
-| **AI systems** | LLM integrations, Workers AI, retrieval, RAG, embeddings, citations, output validation, model evaluation, MCP |
-| **Cloud & delivery** | Cloudflare Workers, Durable Objects, Microsoft Azure, Docker, GitHub Actions, CI/CD, Application Insights |
-| **Quality & security** | pytest, Django tests, Vitest, Playwright, CodeQL, dependency audits, failure-path testing, RBAC |
+| **Languages** | Python, TypeScript, JavaScript, SQL, C++ |
+| **Backend and data** | FastAPI, Django, Django Ninja, Flask, REST APIs, PostgreSQL, Redis, SQLAlchemy, Alembic |
+| **AI systems** | LLM integrations, Workers AI, retrieval, RAG, embeddings, citations, output validation, MCP |
+| **Cloud and delivery** | Cloudflare Workers, Durable Objects, Microsoft Azure, Docker, GitHub Actions, CI/CD |
+| **Quality and security** | pytest, Vitest, Playwright, CodeQL, dependency audits, failure-path testing, RBAC |
 
-</details>
+## Engineering practice
 
-## How I engineer
-
-```text
-evidence first     →  ground decisions in source data and show the trail
-state has an owner  →  make boundaries visible before concurrency makes them expensive
-failure is a path   →  design and test it as deliberately as the happy path
-limits are features →  state what the system cannot guarantee, not only what it can
-```
-
-I use Codex and Claude Code to accelerate exploration and implementation. The final responsibility for the design, tests and code remains mine.
-
-## Beyond the code
-
-- Predicted First Class · Dean's List in Years 1 and 2
-- Oracle Certified Foundations Associate – Agentic AI (2026)
-- Owner and maintainer of PARTHA, coordinating a small project team
-- Student Representative and Staff-Student Consultative Committee member, 2024–2026
-- Mentored **15+ peers** on practical AI workflows and development tooling
-- Delivered first-year workshops on settling into university, job preparation, GitHub, LinkedIn, open source, ethical AI use and academic integrity
-
-<p align="center">
-  <a href="https://www.parthrohit.com">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/parthrohit">LinkedIn</a> ·
-  <a href="mailto:parthrohit60@gmail.com">Email</a>
-</p>
+I use Codex and Claude Code to accelerate exploration and implementation. Design decisions, tests and the code that reaches a repository remain my responsibility.
