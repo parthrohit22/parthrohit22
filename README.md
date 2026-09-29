@@ -100,7 +100,7 @@ me = Engineer(
 ### [🛡️ OWASP OpenShield](https://github.com/OWASP/openshield)
 <a href="https://github.com/OWASP/openshield"><img src="https://img.shields.io/github/languages/top/OWASP/openshield?style=flat-square&color=B6B8AE&labelColor=1C1F1A" alt="Top language" /></a> <a href="https://github.com/OWASP/openshield/commits"><img src="https://img.shields.io/github/last-commit/OWASP/openshield?style=flat-square&color=B6B8AE&labelColor=1C1F1A&label=updated" alt="Last commit" /></a>
 
-**An OWASP Incubator Project for Azure security posture management.** Official maintainer, responsible for code review, scoping, progress tracking and merging, and CODEOWNER for tests and docs. I built CI auditing that flags branch-protection policy drift. Unreviewed evidence never counts as a pass.
+**An OWASP Incubator Project for Azure security posture management.** As an official maintainer, I review and merge pull requests, triage and prioritise issues, and track roadmap milestones. CODEOWNER for tests and docs. I built CI auditing that flags branch-protection policy drift. Unreviewed evidence never counts as a pass.
 
 <code>Python</code> <code>Flask</code> <code>PostgreSQL</code> <code>React</code>
 
