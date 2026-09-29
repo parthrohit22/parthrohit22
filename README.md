@@ -36,7 +36,7 @@ I'm a **First Class Honours** Computing Systems graduate from Ulster University,
 I started out supporting more than 50 users in an operations and IT role, and that's where reliability stopped being theory for me. Now I design the evidence path alongside the feature. You can see where each fact came from and who owns the state. When a dependency fails, the system does something clear. Another engineer can reproduce the result or challenge it.
 
 🔭 Building **PARTHA**: repository intelligence that links every answer back to the source<br/>
-🛡️ Maintainer of **OWASP OpenShield** (write &amp; merge access), an official OWASP Incubator Project<br/>
+🛡️ Official maintainer of **OWASP OpenShield**, an OWASP Incubator Project<br/>
 🏆 **QA Ltd Best Computing Project Award** 2026 · Dean's List, Years 1 and 2<br/>
 💼 **Open to full-time software engineering roles in London, starting now**
 
@@ -100,7 +100,7 @@ me = Engineer(
 ### [🛡️ OWASP OpenShield](https://github.com/OWASP/openshield)
 <a href="https://github.com/OWASP/openshield"><img src="https://img.shields.io/github/languages/top/OWASP/openshield?style=flat-square&color=B6B8AE&labelColor=1C1F1A" alt="Top language" /></a> <a href="https://github.com/OWASP/openshield/commits"><img src="https://img.shields.io/github/last-commit/OWASP/openshield?style=flat-square&color=B6B8AE&labelColor=1C1F1A&label=updated" alt="Last commit" /></a>
 
-**An official OWASP Incubator Project for Azure security posture management.** One of four maintainers with write and merge access, and CODEOWNER for tests and docs. I built CI auditing that flags branch-protection policy drift. Unreviewed evidence never counts as a pass.
+**An OWASP Incubator Project for Azure security posture management.** Official maintainer, responsible for code review, scoping, progress tracking and merging, and CODEOWNER for tests and docs. I built CI auditing that flags branch-protection policy drift. Unreviewed evidence never counts as a pass.
 
 <code>Python</code> <code>Flask</code> <code>PostgreSQL</code> <code>React</code>
 
