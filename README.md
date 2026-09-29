@@ -44,24 +44,35 @@ I started out supporting more than 50 users in an operations and IT role, and th
 <td width="45%" valign="top">
 
 ```python
-class ParthRohit:
-    role     = "Software Engineer"
-    based_in = "London, UK"
-    degree   = ("BSc (Hons) Computing Systems",
-                "First Class Honours",
-                "Ulster University, 2026")
+from dataclasses import dataclass, field
 
-    builds = [
+@dataclass(frozen=True)
+class Engineer:
+    name: str
+    role: str
+    based_in: str
+    degree: str
+    builds: list[str] = field(default_factory=list)
+    principle: str = ""
+    available: bool = False
+
+
+me = Engineer(
+    name="Parth Rohit",
+    role="Software Engineer",
+    based_in="London, UK",
+    degree="BSc (Hons) Computing Systems, "
+           "First Class Honours, Ulster 2026",
+    builds=[
         "AI-native products",
         "backend & API systems",
         "durable, distributed state",
         "cloud security tooling",
-    ]
-
-    principle = ("If an output can't be traced, "
-                 "it isn't finished.")
-
-    status = "Available immediately"
+    ],
+    principle="If an output can't be traced, "
+              "it isn't finished.",
+    available=True,  # immediate start
+)
 ```
 
 </td>
