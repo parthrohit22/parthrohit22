@@ -19,7 +19,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Available%20immediately-B6B8AE?style=flat-square&labelColor=1C1F1A" alt="Available immediately" />
   <img src="https://img.shields.io/badge/BSc%20(Hons)-First%20Class%20Honours-B6B8AE?style=flat-square&labelColor=1C1F1A" alt="First Class Honours" />
-  <img src="https://img.shields.io/badge/OWASP%20OpenShield-Test%20maintainer-B6B8AE?style=flat-square&labelColor=1C1F1A" alt="OpenShield maintainer" />
+  <img src="https://img.shields.io/badge/OWASP%20OpenShield-Maintainer-B6B8AE?style=flat-square&labelColor=1C1F1A" alt="OpenShield maintainer" />
   <img src="https://komarev.com/ghpvc/?username=parthrohit22&style=flat-square&color=B6B8AE&label=Profile+views" alt="Profile views" />
 </p>
 
@@ -36,7 +36,7 @@ I'm a **First Class Honours** Computing Systems graduate from Ulster University,
 I started out supporting more than 50 users in an operations and IT role, and that's where reliability stopped being theory for me. Now I design the evidence path alongside the feature. You can see where each fact came from and who owns the state. When a dependency fails, the system does something clear. Another engineer can reproduce the result or challenge it.
 
 🔭 Building **PARTHA**: repository intelligence that links every answer back to the source<br/>
-🛡️ Test maintainer with write access on **OpenShield**, an OWASP-hosted project<br/>
+🛡️ Maintainer of **OWASP OpenShield** (write &amp; merge access), an official OWASP Incubator Project<br/>
 🏆 **QA Ltd Best Computing Project Award** 2026 · Dean's List, Years 1 and 2<br/>
 💼 **Open to full-time software engineering roles in London, starting now**
 
@@ -97,10 +97,10 @@ me = Engineer(
 </td>
 <td width="50%" valign="top">
 
-### [🛡️ OpenShield](https://github.com/openshield-org/openshield)
-<a href="https://github.com/openshield-org/openshield"><img src="https://img.shields.io/github/languages/top/openshield-org/openshield?style=flat-square&color=B6B8AE&labelColor=1C1F1A" alt="Top language" /></a> <a href="https://github.com/openshield-org/openshield/commits"><img src="https://img.shields.io/github/last-commit/openshield-org/openshield?style=flat-square&color=B6B8AE&labelColor=1C1F1A&label=updated" alt="Last commit" /></a>
+### [🛡️ OWASP OpenShield](https://github.com/OWASP/openshield)
+<a href="https://github.com/OWASP/openshield"><img src="https://img.shields.io/github/languages/top/OWASP/openshield?style=flat-square&color=B6B8AE&labelColor=1C1F1A" alt="Top language" /></a> <a href="https://github.com/OWASP/openshield/commits"><img src="https://img.shields.io/github/last-commit/OWASP/openshield?style=flat-square&color=B6B8AE&labelColor=1C1F1A&label=updated" alt="Last commit" /></a>
 
-**Azure security posture management on OWASP.** I own the tests and documentation, and built CI auditing that flags branch-protection policy drift. Unreviewed evidence never counts as a pass.
+**An official OWASP Incubator Project for Azure security posture management.** One of four maintainers with write and merge access, and CODEOWNER for tests and docs. I built CI auditing that flags branch-protection policy drift. Unreviewed evidence never counts as a pass.
 
 <code>Python</code> <code>Flask</code> <code>PostgreSQL</code> <code>React</code>
 
