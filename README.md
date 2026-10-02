@@ -27,21 +27,14 @@
 
 ## `$ whoami`
 
-<table>
-<tr>
-<td width="55%" valign="top">
-
 I'm a **First Class Honours** Computing Systems graduate from Ulster University, London. I build **AI-native products** and the **backend systems** behind them.
 
 I started out supporting more than 50 users in an operations and IT role, and that's where reliability stopped being theory for me. Now I design the evidence path alongside the feature. You can see where each fact came from and who owns the state. When a dependency fails, the system does something clear. Another engineer can reproduce the result or challenge it.
 
-🔭 Building **PARTHA**: repository intelligence that links every answer back to the source<br/>
-🛡️ Official maintainer of **OWASP OpenShield**, an OWASP Incubator Project<br/>
-🏆 **QA Ltd Best Computing Project Award** 2026 · Dean's List, Years 1 and 2<br/>
-💼 **Open to full-time software engineering roles in London, starting now**
-
-</td>
-<td width="45%" valign="top">
+- 🔭 Building **PARTHA**: repository intelligence that links every answer back to the source
+- 🛡️ Official maintainer of **OWASP OpenShield**, an OWASP Incubator Project
+- 🏆 **QA Ltd Best Computing Project Award** 2026 · Dean's List, Years 1 and 2
+- 💼 **Open to full-time software engineering roles in London, starting now**
 
 ```python
 from dataclasses import dataclass, field
@@ -74,10 +67,6 @@ me = Engineer(
     available=True,  # immediate start
 )
 ```
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -192,6 +181,21 @@ me = Engineer(
 
 ---
 
+## 🏅 Recognition
+
+| | |
+| --- | --- |
+| 🎓 | **BSc (Hons) Computing Systems, First Class Honours** · Ulster University, London · 2026 |
+| 🏆 | **Best Computing Project Award** · QA Ltd, university technology fest · 2026 |
+| ☁️ | **Oracle Cloud Infrastructure Certified Architect Associate** · 2026 |
+| 📜 | **Oracle Agentic AI Certified Foundations Associate** · 2026 |
+| 🗄️ | **Oracle SQL Explorer** · Oracle Learning Explorer completion badge · core SQL, DDL/DML and schema design |
+| 🧩 | **Microsoft Learn completion** · Build enterprise-grade tool ecosystems with MCP and Microsoft Foundry |
+| ⭐ | **Dean's List** · Years 1 and 2 |
+| 🤝 | **Student Representative & SSCC member** · 2024 to 2026 · taught 15+ peers practical AI and development workflows |
+
+---
+
 ## 📈 GitHub activity
 
 <p align="center">
@@ -219,21 +223,6 @@ me = Engineer(
     <img alt="Contribution snake" src="https://raw.githubusercontent.com/parthrohit22/parthrohit22/output/github-snake-dark.svg" />
   </picture>
 </p>
-
----
-
-## 🏅 Recognition
-
-| | |
-| --- | --- |
-| 🎓 | **BSc (Hons) Computing Systems, First Class Honours** · Ulster University, London · 2026 |
-| 🏆 | **Best Computing Project Award** · QA Ltd, university technology fest · 2026 |
-| ☁️ | **Oracle Cloud Infrastructure Certified Architect Associate** · 2026 |
-| 📜 | **Oracle Agentic AI Certified Foundations Associate** · 2026 |
-| 🗄️ | **Oracle SQL Explorer** · Oracle Learning Explorer completion badge · core SQL, DDL/DML and schema design |
-| 🧩 | **Microsoft Learn completion** · Build enterprise-grade tool ecosystems with MCP and Microsoft Foundry |
-| ⭐ | **Dean's List** · Years 1 and 2 |
-| 🤝 | **Student Representative & SSCC member** · 2024 to 2026 · taught 15+ peers practical AI and development workflows |
 
 ---
 
