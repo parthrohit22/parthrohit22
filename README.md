@@ -230,6 +230,8 @@ me = Engineer(
 | 🏆 | **Best Computing Project Award** · QA Ltd, university technology fest · 2026 |
 | ☁️ | **Oracle Cloud Infrastructure Certified Architect Associate** · 2026 |
 | 📜 | **Oracle Agentic AI Certified Foundations Associate** · 2026 |
+| 🗄️ | **Oracle SQL Explorer** · Oracle Learning Explorer completion badge · core SQL, DDL/DML and schema design |
+| 🧩 | **Microsoft Learn completion** · Build enterprise-grade tool ecosystems with MCP and Microsoft Foundry |
 | ⭐ | **Dean's List** · Years 1 and 2 |
 | 🤝 | **Student Representative & SSCC member** · 2024 to 2026 · taught 15+ peers practical AI and development workflows |
 
