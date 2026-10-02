@@ -228,6 +228,7 @@ me = Engineer(
 | --- | --- |
 | 🎓 | **BSc (Hons) Computing Systems, First Class Honours** · Ulster University, London · 2026 |
 | 🏆 | **Best Computing Project Award** · QA Ltd, university technology fest · 2026 |
+| ☁️ | **Oracle Cloud Infrastructure Certified Architect Associate** · 2026 |
 | 📜 | **Oracle Agentic AI Certified Foundations Associate** · 2026 |
 | ⭐ | **Dean's List** · Years 1 and 2 |
 | 🤝 | **Student Representative & SSCC member** · 2024 to 2026 · taught 15+ peers practical AI and development workflows |
