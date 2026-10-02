@@ -199,21 +199,8 @@ me = Engineer(
 ## 📈 GitHub activity
 
 <p align="center">
-  <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" width="100%" alt="Profile details and contributions" />
-</p>
-
-<p align="center">
   <img src="./profile-summary-card-output/github_dark/3-stats.svg" width="49%" alt="GitHub stats" />
   <img src="./profile-summary-card-output/github_dark/4-productive-time.svg" width="49%" alt="Productive time" />
-</p>
-
-<p align="center">
-  <img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" width="49%" alt="Repositories per language" />
-  <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" width="49%" alt="Most committed language" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=parthrohit22&hide_border=true&background=0D1117&ring=B6B8AE&fire=B6B8AE&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=B6B8AE&sideLabels=9DA59A&dates=6E7681&stroke=30363D" alt="Contribution streak" />
 </p>
 
 <p align="center">
